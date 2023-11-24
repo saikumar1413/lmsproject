@@ -1,0 +1,16 @@
+.options{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: aqua;
+    width: 300px;
+    left: 45rem;
+    
+    border-radius: 20px;
+}
+.form-check-input{
+    display: block;
+    position: relative;
+    right: 13rem;
+    top: 2rem;
+}

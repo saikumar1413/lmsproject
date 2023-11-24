@@ -1,0 +1,23 @@
+.issuecolumn{
+    color: brown;
+    width: 10rem;
+    height: 5rem;
+    background-color: beige;
+}
+.datacolumn{
+    width: 10rem;
+    height: 5rem;
+    color:black;
+    background-color: rgb(238, 238, 184);
+}
+.table-border-shadow{
+    text-align: center; 
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Issuecontainer{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 2rem;
+}
